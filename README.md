@@ -38,7 +38,7 @@ After exploring the correlations we will build our model, which should predict t
 - Week 3: Study performance of the models obtained, prepare data story 
 
 # Organization within the team
-- Alex does the data merging and data exploration
-- Denys and Egor build the model and study the representativeness
-- Everyone writes about their part in the data story
+- Alex: Data pre-processing: downloaded data, cleaned and transformed data, correlations analysis, Setting Up data story, Writing pre-processing part of data story
+- Egor: Finding reliable nutrients to predict, built linear models, built gradient boost models, compared performance of models, merged notebook for final submission, wrote data story part about finding the most important features
+- Denys: built procedure for feature selection, built neural net, built linear models, compared performance, did representativeness analysis
 
